@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1>Hello, I'm Denis 👋</h1>
+  <h3>Beginner Frontend Programmer</h3>
+</div>
 
 <!--
 **Destol94/Destol94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 Now I am in the process of acquiring new knowledge and skills
+- 🤔 Give me knowledge, I will give you results
+- ⚡ Fun fact: ...
