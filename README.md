@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 -->
 - 🌱 Now I am in the process of acquiring new knowledge and skills
 - 🤔 Give me knowledge, I will give you results
-- ⚡ Fun fact: ...
